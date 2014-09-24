@@ -1,8 +1,9 @@
   DHT22.cpp - DHT22 sensor library
   Developed by Ben Adams - 2011
 
-  Modified by Jørn Sandvik Nilsson for use with the Waspmote
-  board.
+  Modified by Jørn Sandvik Nilsson for use with the Waspmote board.
+
+  Example code is still Arduino specific. Change "Serial" to "USB", and you're good to go.
 
 Humidity and Temperature Sensor DHT22 info found at
   http://www.sparkfun.com/products/10167
