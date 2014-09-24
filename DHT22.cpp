@@ -45,8 +45,9 @@ http://sheepdogguides.com/arduino/ar3ne1humDHT11.htm
 */
 
 #include "DHT22.h"
-#include <Arduino.h>
-#include <pins_arduino.h>
+#include <Waspmote.h>
+#include <pins_waspmote.h>
+#include <wiring.h>
 
 extern "C" {
 #include <avr/io.h>
